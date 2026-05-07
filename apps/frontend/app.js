@@ -1,0 +1,1 @@
+console.log("Mini Shop frontend loaded");
